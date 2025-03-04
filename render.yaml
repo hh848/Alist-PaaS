@@ -23,7 +23,7 @@ services:
         value: 1odrJzRpt2V6TPh0KrOcCsRDmbjzPzCc
         #sync: false
       - key: DB_NAME
-        value: alist-db
+        value: alist_8vom
         #sync: false
       - key: DB_TABLE_PREFIX
         value: alist_
